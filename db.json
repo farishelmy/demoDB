@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "userProfile": [
     { "id": 1, "name": "Abu" },
     { "id": 2, "name": "Husna" },
     { "id": 3, "name": "zaki" }
@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "staff": {
     "name": "farisHelmy"
   }
 }
