@@ -10,7 +10,6 @@
     { "id": 2, "body": "some comment", "postId": 2 },
     { "id": 3, "body": "some comment", "postId": 3 }
   ],
-  "staff": {
-    "name": "farisHelmy"
-  }
+  "staff": 
+  { "name": "farisHelmy" }
 }
